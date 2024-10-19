@@ -1,0 +1,14 @@
+/Users/arwa/c# app/SimpleCalculator/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator
+/Users/arwa/c# app/SimpleCalculator/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator.deps.json
+/Users/arwa/c# app/SimpleCalculator/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator.runtimeconfig.json
+/Users/arwa/c# app/SimpleCalculator/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator.dll
+/Users/arwa/c# app/SimpleCalculator/SimpleCalculator/bin/Debug/net8.0/SimpleCalculator.pdb
+/Users/arwa/c# app/SimpleCalculator/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arwa/c# app/SimpleCalculator/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.AssemblyInfoInputs.cache
+/Users/arwa/c# app/SimpleCalculator/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.AssemblyInfo.cs
+/Users/arwa/c# app/SimpleCalculator/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.csproj.CoreCompileInputs.cache
+/Users/arwa/c# app/SimpleCalculator/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.dll
+/Users/arwa/c# app/SimpleCalculator/SimpleCalculator/obj/Debug/net8.0/refint/SimpleCalculator.dll
+/Users/arwa/c# app/SimpleCalculator/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.pdb
+/Users/arwa/c# app/SimpleCalculator/SimpleCalculator/obj/Debug/net8.0/SimpleCalculator.genruntimeconfig.cache
+/Users/arwa/c# app/SimpleCalculator/SimpleCalculator/obj/Debug/net8.0/ref/SimpleCalculator.dll
